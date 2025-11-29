@@ -6,6 +6,7 @@ The core purpose of my Smart Kiosk project is to create a professional, subscrip
 Since it is an open source project it will be very helpful to any Small businessman or shop owner who want to make their shops and business mode attractive To the customer and giving it a modern and futuristic touch.
 
 
+
 ### Design Visuals
 
 To give an overview of the custom enclosure, here are the main components of the 3D-printed housing:
@@ -13,6 +14,8 @@ To give an overview of the custom enclosure, here are the main components of the
 * **Frontplate View (Display/Printer Side):** ![Frontplate Render of the Smart Kiosk](Frontplate.png) 
 
 * **Backplate View (Port/Connector Side):** ![Backplate Render showing power and USB ports](Backplate.png)
+
+
 
 ## 💰 Bill of Materials (BOM)
 
