@@ -1,1 +1,26 @@
 
+## 💰 Bill of Materials (BOM)
+
+| Index | Part Name / Description | Quantity | Supplier | Unit Cost (USD) | Total Cost (USD) | MPN / SKU |
+| :---: | :--- | :---: | :--- | :---: | :---: | :--- |
+| **A** | **Main Electronics & Display** | | | | | |
+| A1 | LattePanda Mu Kit (N100, 8GB RAM, Lite Carrier, Active Cooler) | 1 | DFRobot | $200.00 | $200.00 | N/A |
+| A2 | 10.5" 1920x1280 LED Touch Monitor | 1 | DFRobot | $129.00 | $129.00 | DFR0817U |
+| A3 | Embedded Thermal Printer V2.0 | 1 | DFRobot | $39.00 | $39.00 | DFR0503-EN |
+| A4 | XIAO ESP32-S3 Dev Board | 1 | Seeed Studio | $6.74 | $6.74 | 114992008 |
+| A5 | GRIS 150M Miniature WiFi Module | 1 | DFRobot | $8.50 | $8.50 | FIT0528 |
+| A6 | Push Button | 1 | Generic/JLCPCB | $2.00 | $2.00 | N/A |
+| **B** | **Power & Connectors** | | | | | |
+| B1 | DC Female Connector | 1 | Generic/JLCPCB | $1.00 | $1.00 | N/A |
+| B2 | DC Male Connector | 1 | Generic/JLCPCB | $1.00 | $1.00 | N/A |
+| **C** | **Screws, Inserts & Fittings** | | | | | |
+| C1 | M3x6mm Metal Heat Insert | 11 | Generic/JLCPCB | $0.20 | $2.20 | N/A |
+| C2 | M3x16mm Screw | 2 | Generic/JLCPCB | $0.05 | $0.10 | N/A |
+| C3 | M3x6mm Screw | 15 | Generic/JLCPCB | $0.05 | $0.75 | N/A |
+| C4 | M2x6mm Screw | 4 | Generic/JLCPCB | $0.05 | $0.20 | N/A |
+| C5 | M2.5x6mm Screw (Included with screen) | 4 | N/A | $0.00 | $0.00 | N/A |
+| **D** | **Custom 3D-Printed Parts** | | | | | |
+| D1 | Housing (Main Enclosure) | 1 | Your 3D Printer | $10.00 | $10.00 | N/A |
+| D2 | Printer Cover | 1 | Your 3D Printer | $5.00 | $5.00 | N/A |
+| D4 | Side Vents (2x) | 2 | Your 3D Printer | $1.00 | $2.00 | N/A |
+| **-** | **Total Estimated Cost** | **-** | **-** | **-** | **$396.49** | **-** |
